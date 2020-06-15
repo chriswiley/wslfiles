@@ -1,2 +1,2 @@
 # wslfiles
-Won't be here long
+This is a testing file to see how to use wsl and windows based git gui's
