@@ -10,6 +10,8 @@ I don't know how this will work out
 
 Added anogther line here.
 
+This is the final feature of the new branch.
+
 Ok, so how can we see if this is ok then?
 
 But does it see this?
