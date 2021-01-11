@@ -105,3 +105,5 @@ dist
 
 # wsl
  *.swp
+
+*.swp
