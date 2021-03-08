@@ -8,7 +8,7 @@ More and more changes are afoot
 
 I don't know how this will work out
 
-Added anogther line here.
+Added another line here.
 
 This is the final feature of the new branch.
 
