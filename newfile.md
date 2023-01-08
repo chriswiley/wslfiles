@@ -3,4 +3,4 @@ and here is line 2
 Here is line 3 append to this line
 here is line 4
 
-welcome
+welcome everyone! How are you today?
